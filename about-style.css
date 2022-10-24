@@ -1,0 +1,47 @@
+.about-me{
+    text-align: right;
+    border:solid 2px red;
+    border-radius: 5px;
+    padding:15px;
+    text-align: center;
+    width:750px;
+ }
+ 
+ .about-img{
+     border-radius: 5px;
+ }
+
+
+
+.links > a{
+    color: gray;
+}
+
+
+.links>a:hover {
+    color: red;
+}
+
+/* h1 {
+    text-decoration: underline;
+}
+
+.form-control {
+    width: 200px;
+    text-align: right;
+    resize: none;
+} */
+
+
+
+/* .links > #facebook:hover{
+    color:blue;
+}
+
+.links > #instagram:hover{
+    color:pink;
+}
+
+.links > #whatsapp:hover{
+    color:yellowgreen;
+} */
